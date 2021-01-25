@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Sophia-11/Sophia-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi I'm [Sophia!](https://www.zhihu.com/people/PursueWin) 👋
+<!-- ![](https://komarev.com/ghpvc/?username=Sophia-11&color=yellowgreen)-->
+
+- 👯 中国科学院 | 上市公司AI算法工程师 | CSDN博客专家
+- 😄 人工智能公众号：计算机视觉联盟（ID:  cvlianmeng）
+
+![Sophia-11's github stats](https://github-readme-stats.vercel.app/api?username=Sophia-11&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
